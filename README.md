@@ -1,6 +1,6 @@
 # Meme generator
 
-A web app which generates awesome memes based upon your text
+A React web app which generates awesome memes based upon your text
 
 <div>
   <img src="memeGenerator.png">
