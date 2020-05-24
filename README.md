@@ -1,6 +1,6 @@
-#Meme generator
+# Meme generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web app which generates awesome memes based upon your text
 
 ## Available Scripts
 
