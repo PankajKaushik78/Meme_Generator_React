@@ -2,6 +2,10 @@
 
 A web app which generates awesome memes based upon your text
 
+<div>
+  <img src="memeGenerator.png">
+</div>
+
 ## Available Scripts
 
 In the project directory, you can run:
